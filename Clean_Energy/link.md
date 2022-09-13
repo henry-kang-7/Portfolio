@@ -1,3 +1,3 @@
-## Please click the link below
+## Please click the link below to access the website.
 
-[Clean_Energy](https://linhanccc.github.io/CASA0003-GROUP2/website.html)
+[Clean_Energy_Website](https://linhanccc.github.io/CASA0003-GROUP2/website.html)
